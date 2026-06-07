@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there 👋
+
+Data Scientist & ML Engineer. Using this space to document some of my personal projects and open-source work as I go.
 
 <!--
 **henrysrtaylor/henrysrtaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
