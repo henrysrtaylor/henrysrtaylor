@@ -12,7 +12,7 @@ Data Scientist & ML Engineer at Microsoft. Using this space to capture and docum
 - [Microsoft DSTK: Finetuning Phi-2 Language Model](https://github.com/microsoft/dstoolkit-phi2-finetune) - Accelerator on finetuning Phi-2 with your own data.
 
 
-#### Actively working on
+### Actively working on
 
 - **MicroLM** - Transformer based (decoder) SLM trained from scratch through pre-training, post-training and alignment 
 - **Algorithmic Chess Lab** - A Python chess environment for building and challenging custom chess AI agents/algorithms
