@@ -16,7 +16,7 @@ Data Scientist & ML Engineer at Microsoft. Using this space to capture and docum
 
 - **MicroLM** - Transformer based (decoder) SLM trained from scratch through pre-training, post-training and alignment 
 - **Algorithmic Chess Lab** - A Python chess environment for building and challenging custom chess AI agents/algorithms
-- **Agentic Face Checker** - Multi-agent fact-verification engine to combat disinformation with ReAct reasoning loops, and dynamic MCP tools.
+- **Agentic Fact Checker** - Multi-agent fact-verification engine to combat disinformation with ReAct reasoning loops, and dynamic MCP tools.
 
 
 <!--
