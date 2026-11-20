@@ -8,8 +8,8 @@ Data Scientist & ML Engineer at Microsoft. Using this space to capture and docum
 - [Azure RAG Accelerator](https://github.com/henrysrtaylor/azure-rag-accelerator) - Azure-based Retrieval-Augmented Generation (RAG) solution/ accelerator.
 - [Azure Secure ML Environment](https://github.com/henrysrtaylor/azure-secure-ml-env) - Full Azure ML env creation to support a secure sandbox for ML or AI development.
 - [Eigenface Face Recognition](https://github.com/henrysrtaylor/face-recognition-eigenface) - Tutorial for face recognition using Eigenfaces (PCA) approach.
-- [Microsoft DSTK: Finetuning Florence-2 ViT](https://github.com/microsoft/dstoolkit-finetuning-florence-2) - Accelerator on finetuning Florance-2 ViT for computer vision use cases.
-- [Microsoft DSTK: Finetuning Phi-2 Language Model](https://github.com/microsoft/dstoolkit-phi2-finetune) - Accelerator on finetuning Phi-2 with your own data.
+- [Microsoft DSTK: Finetuning Florence-2 ViT](https://github.com/microsoft/dstoolkit-finetuning-florence-2) - Accelerator on fine-tuning Florance-2 ViT for computer vision use cases.
+- [Microsoft DSTK: Finetuning Phi-2 Language Model](https://github.com/microsoft/dstoolkit-phi2-finetune) - Accelerator on fine-tuning Phi-2 with your own data.
 
 
 ### Actively working on
