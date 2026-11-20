@@ -2,21 +2,17 @@
 
 Data Scientist & ML Engineer at Microsoft. Using this space to capture and document some of my open-source work and personal projects as I go.
 
-
----
-
-
-Previous selected work: 
+### Some Previous Work 
 
 - [DeepNum](https://github.com/henrysrtaylor/DeepNum) - A modular Deep Learning framework built from scratch using NumPy.
-- [Azure RAG Accelerator](https://github.com/henrysrtaylor/azure-rag-accelerator) - Azure-based Retrieval-Augmented Generation (RAG) solution/ accelerator with Document-Level Security, content moderation guardrails, follow up questions, and query refinement.
-- [Azure Secure ML Environment](https://github.com/henrysrtaylor/azure-secure-ml-env) - Azure ML resource group creation script with private endpoints for secure sandbox environment. Foundry, Azure ML Studio, Storage Account, AI Search.
-- [Eigenface Face Recognition](https://github.com/henrysrtaylor/face-recognition-eigenface) - Demo, tutorial, and theory for face recognition using Eigenfaces (PCA) approach.
-- [Microsoft DSTK: Finetuning Florence-2 ViT](https://github.com/microsoft/dstoolkit-finetuning-florence-2) - Accelerator on how to finetune Microsoft's Florance-2 model for a variety of computer vision use cases.
-- [Microsoft DSTK: Finetuning Phi-2 Language Model](https://github.com/microsoft/dstoolkit-phi2-finetune) - Accelerator on how to finetune Microsoft's Phi-2 model with your own data.
+- [Azure RAG Accelerator](https://github.com/henrysrtaylor/azure-rag-accelerator) - Azure-based Retrieval-Augmented Generation (RAG) solution/ accelerator.
+- [Azure Secure ML Environment](https://github.com/henrysrtaylor/azure-secure-ml-env) - Full Azure ML env creation to support a secure sandbox for ML or AI development.
+- [Eigenface Face Recognition](https://github.com/henrysrtaylor/face-recognition-eigenface) - Tutorial for face recognition using Eigenfaces (PCA) approach.
+- [Microsoft DSTK: Finetuning Florence-2 ViT](https://github.com/microsoft/dstoolkit-finetuning-florence-2) - Accelerator on finetuning Florance-2 ViT for computer vision use cases.
+- [Microsoft DSTK: Finetuning Phi-2 Language Model](https://github.com/microsoft/dstoolkit-phi2-finetune) - Accelerator on finetuning Phi-2 with your own data.
 
 
-Actively working on:
+#### Actively working on
 
 - **MicroLM** - Transformer based (decoder) SLM trained from scratch through pre-training, post-training and alignment 
 - **Algorithmic Chess Lab** - A Python chess environment for building and challenging custom chess AI agents/algorithms
